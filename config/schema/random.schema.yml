@@ -1,0 +1,7 @@
+field.field_settings.[FIELD ID]:
+  type: mapping
+  label: 'RandomName settings'
+  mapping:
+    size:
+      type: string
+      label: 'Size'
